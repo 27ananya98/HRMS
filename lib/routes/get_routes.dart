@@ -1,0 +1,34 @@
+class AppRoute{
+  static String initial ="/";
+  static String drawerHandler ="/drawerHandler";
+  static String loginView = "/loginView";
+  static String  homeMenu = "/homeMenu";
+  static String  homePages = "/homePages";
+  static String dashboard = "/dashboard";
+  static String regularization = "/regularization";
+  static String regularizationDialog = "/regularizationDialog";
+  static String report = "/report";
+  static String holidayList = "/holidayList";
+  static String leaveDash = "/leaveDash";
+  static String leaveRequest = "/leaveRequest";
+  static String attendance = "/attenuation";
+  static String compOff = "/compOff";
+  static String expense = "/expense";
+  static String leave = "/leave";
+  static String myTask = "/myTask";
+  static String salarySlip = "/salarySlip";
+  static String companyDirectory = "/companyDirectory";
+  static String holidayListH  = "/holidaysListH";
+  static String profile = "/profile";
+  static String homeView = "/homeView";
+  static String empHomeView = "/empHomeView";
+  static String teamView = "/teamView";
+  static String mangHomeView = "/mangHomeView";
+  static String downloadSalarySlip = "/downloadSalarySlip";
+  static String downloadPaySlip = "/downloadPaySlip";
+  static String event = "/event";
+  static String feedback = "/feedback";
+  static String feedbackList = "/feedbackList";
+  static String upcomingBirthdayList = "/upcomingBirthdayList";
+  static String myLocationScreen = "/myLocationScreen";
+}
